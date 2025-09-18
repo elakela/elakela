@@ -56,9 +56,4 @@
 ---
 
 ## 📫 Contacts
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 📧 [Email](mailto:youremail@example.com)  
-
----
-
-⭐ *If you like my work, consider leaving a star on my projects — your support means a lot!*  
+- 💼 [LinkedIn](https://linkedin.com/in/gabriela-riscica)  
