@@ -34,11 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Metrics](./metrics.svg)
-
----
-
 ## 🚀 Featured Projects
 
 - [**Library Database Management System**](https://github.com/elakela/gestione-biblioteca.git)  
