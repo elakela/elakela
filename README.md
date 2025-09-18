@@ -40,7 +40,7 @@
 ---
 
 ## 🚀 Featured Projects
-- [**Dog Breed Recognition (Thesis Project)**](#)  
+- [**Dog Breed Recognition (Thesis Project)**]
   Deep Learning project for **automatic dog breed classification**.  
 
 - [**Library Database Management System**](https://github.com/elakela/gestione-biblioteca.git)  
