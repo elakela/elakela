@@ -43,7 +43,7 @@
 - [**Dog Breed Recognition (Thesis Project)**](#)  
   Deep Learning project for **automatic dog breed classification**.  
 
-- [**Library Database Management System**](#)  
+- [**Library Database Management System**](https://github.com/elakela/gestione-biblioteca.git)  
   Academic project for designing a **relational database** for a library.  
 
 ---
