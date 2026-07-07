@@ -38,7 +38,7 @@
 
 - [**Library Database Management System**](https://github.com/elakela/gestione-biblioteca.git)  
   Academic project for designing a **relational database** for a library.
-  - [**Van der Pol Equation via PINNs**](https://github.com/elakela/Van-der-Pol-Equation-via-PINNs.git)
+- [**Van der Pol Equation via PINNs**](https://github.com/elakela/Van-der-Pol-Equation-via-PINNs.git)
   Academic project for resolution of Van der Pol equation via PINNs
 
 ---
