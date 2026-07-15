@@ -36,6 +36,8 @@
 
 ## 🚀 Featured Projects
 
+- [**Dog Breed Recognition using Deep Learning**](https://github.com/elakela/Dog-Breed-Recognition)
+  BSc Thesis on the use of **Deep Learning for Dog Breed Recognition**
 - [**Library Database Management System**](https://github.com/elakela/gestione-biblioteca)
   Academic project for designing a **relational database** for a library.
 - [**Van der Pol Equation via PINNs**](https://github.com/elakela/Van-der-Pol-Equation-via-PINNs)
